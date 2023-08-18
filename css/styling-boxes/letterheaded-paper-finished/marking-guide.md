@@ -1,4 +1,5 @@
 # Marking guide for "Creating fancy letterheaded paper"
+
 The following guide outlines a marking guide for the MDN Learning Area CSS assessment — [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/Learn/CSS/Styling_boxes/Creating_fancy_letterheaded_paper). Each subtask detailed in the assessment is listed below, along with an explanation of how many marks the task is worth, and the mark breakdown.
 
 Note: These are guidelines, not set in stone rules — you are of course free to use your judgement on mark awarding when you meet an edge case, or something that isn't clear cut.
@@ -24,7 +25,7 @@ The overall mark awarded is out of 19. Work out their final mark, and then divid
 <dd>One mark for adding a <code>background</code> property that just specifies <code>url(top-image.png) no-repeat left top</code> in it's value; one mark for putting it before the main <code>background</code> declaration.</dd>
 <dt>"Add a white background color to the letter." (1 mark)</dt>
 <dd>Easy — <code>background-color: white;</code>.</dd>
-<dt>"Add a 1mm top and bottom solid border to the letter, in a color that is inkeeping with the rest of the color scheme." (3 marks)</dt>
+<dt>"Add a 1mm top and bottom solid border to the letter, in a color that is in keeping with the rest of the color scheme." (3 marks)</dt>
 <dd>Two marks for an appropriate <code>border-top</code> and <code>border-bottom</code> declaration (one for each), and one mark for choosing an appropriate color to go with the top and bottom graphics (e.g. a red or brown for the default provided options).</dd>
 </dl>
 
@@ -43,6 +44,5 @@ The overall mark awarded is out of 19. Work out their final mark, and then divid
     <li>One mark for appropriate use of the <code>box-shadow</code> property.</li>
   </ul>
 </dd>
-
 
 </dl>

@@ -1,4 +1,5 @@
 # Marking guide for "A cool looking box"
+
 The following guide outlines a marking guide for the MDN Learning Area CSS assessment — [A cool looking box](https://developer.mozilla.org/en-US/Learn/CSS/Styling_boxes/A_cool_looking_box). Each subtask detailed in the assessment is listed below, along with an explanation of how many marks the task is worth, and the mark breakdown.
 
 Note: These are guidelines, not set in stone rules — you are of course free to use your judgement on mark awarding when you meet an edge case, or something that isn't clear cut.
@@ -31,7 +32,7 @@ The overall mark awarded is out of 22. Work out their final mark, and then divid
 <dd>One mark for setting a fairly subtle <code>border-radius</code> value like 10-15px, or 1rem perhaps. 20px at the most; nothing too ridiculous.</dd>
 <dt>"A 1 pixel solid border with a color similar to the base color, but a slightly darker shade." (2 marks)</dt>
 <dd>One mark for setting the <code>border</code> as <code>1px solid [a color]</code>, and one mark for setting the color to a slightly darker shade than the base color, e.g. if your base color is <code>rgb(255,0,0)</code>, set it to <code>rgb(200,0,0)</code>.</dd>
-<dt>"A linear semi-transparent black gradient that goes towards the top left corner. Make it completely transparent at the start, gradiating to around 0.2 opacity by 30% along, and remaining at the same color until the end." (4 marks)</dt>
+<dt>"A linear semi-transparent black gradient that goes towards the top left corner. Make it completely transparent at the start, grading to around 0.2 opacity by 30% along, and remaining at the same color until the end." (4 marks)</dt>
 <dd>An ideal value would be <code>background-image: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));</code>. The student can get:
   <ul>
     <li>One mark for knowing how to use a <code>linear-gradient</code>.</li>
